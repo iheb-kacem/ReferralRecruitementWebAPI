@@ -1,0 +1,14 @@
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\Recruitement.Services.dll.config
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\Recruitement.Services.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\Recruitement.Services.pdb
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\EntityFramework.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\Recruitement.Data.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\Recruitement.Domain.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\Recruitement.Data.pdb
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\Recruitement.Domain.pdb
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\EntityFramework.xml
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\obj\Debug\Recruitement.Services.csprojResolveAssemblyReference.cache
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\obj\Debug\Recruitement.Services.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Services\obj\Debug\Recruitement.Services.pdb

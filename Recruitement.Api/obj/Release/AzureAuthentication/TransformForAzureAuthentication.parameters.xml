@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AD_ClientID" description="AD Client Application ID" defaultValue="d94863a0-cf2f-4105-b631-00c1bbffedcf" tags="AD_ClientAPPID">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:ClientID']/@value" />
+  </parameter>
+  <parameter name="AD_WebAPI_Audience" description="AD Web API Audience" defaultValue="https://recruitement.onmicrosoft.com/Recruitement.Api" tags="AD_WebAPI_Audience">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:Audience']/@value" />
+  </parameter>
+</parameters>

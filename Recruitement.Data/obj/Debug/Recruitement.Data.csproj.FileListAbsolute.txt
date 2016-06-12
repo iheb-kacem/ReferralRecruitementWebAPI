@@ -1,0 +1,15 @@
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\Recruitement.Data.dll.config
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\Recruitement.Data.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\Recruitement.Data.pdb
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\EntityFramework.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\Recruitement.Domain.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\Recruitement.Domain.pdb
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\EntityFramework.xml
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\obj\Debug\Recruitement.Data.csprojResolveAssemblyReference.cache
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\obj\Debug\Recruitement.Data.Migrations.v1.resources
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\obj\Debug\Recruitement.Data.csproj.GenerateResource.Cache
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\obj\Debug\Recruitement.Data.dll
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\obj\Debug\Recruitement.Data.pdb
+C:\Users\PLAYER9\Source\Repos\referralrecruitmentsaas\ReferralRecruitementSaas\Recruitement.Data\obj\Debug\Recruitement.Data.Migrations.v2.resources

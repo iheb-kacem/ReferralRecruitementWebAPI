@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RecruitementDB-Web.config Connection String" description="RecruitementDB Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:oxm57oyfk6.database.windows.net,1433;Database=RecruitementApi_db;User ID=Schellengers@oxm57oyfk6;Password=P@$$w0rd;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RecruitementDB']/@connectionString" />
+  </parameter>
+</parameters>

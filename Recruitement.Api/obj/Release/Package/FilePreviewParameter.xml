@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RecruitementApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="RecruitementDB-Web.config Connection String" description="" value="Server=tcp:oxm57oyfk6.database.windows.net,1433;Database=RecruitementApi_db;User ID=Schellengers@oxm57oyfk6;Password=Esprit2015;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RecruitementDB']/@connectionString" />
+  </parameter>
+  <parameter name="AD_APPIDUri" description="" value="https://recruitement.onmicrosoft.com/WebApp-recruitementapi.azurewebsites.net" tags="" />
+  <parameter name="AD_ClientID" description="" value="624aa8fb-71d8-4131-8e1c-d98367b82ca6" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:ClientID']/@value" />
+  </parameter>
+  <parameter name="AD_Issuer" description="" value="https://login.windows.net/recruitement.onmicrosoft.com/wsfed" tags="" />
+  <parameter name="AD_MetadataUrl" description="" value="https://login.windows.net/recruitement.onmicrosoft.com/FederationMetadata/2007-06/FederationMetadata.xml" tags="" />
+  <parameter name="AD_WebAPI_Audience" description="" value="https://recruitement.onmicrosoft.com/WebApp-recruitementapi.azurewebsites.net" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\PLAYER9\\Source\\Repos\\referralrecruitmentsaas\\ReferralRecruitementSaas\\Recruitement\.Api\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/appSettings/add[@key='ida:Audience']/@value" />
+  </parameter>
+</parameters>
